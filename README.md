@@ -25,8 +25,8 @@ Sesli komut işleme, görev yönetimi ve çoklu kullanıcı desteğini tek bir a
 |-----|------|-------|
 | 🎓 **Danışman** | Doç. Dr. Sinem Akyol | Fırat Üniversitesi |
 | 👑 **Koordinatör** | Şevval Kaya | Fırat Üniversitesi |
-| 👨‍💻 **Üye** | Berkay Parçal | Fırat Üniversitesi |
-| 👩‍💻 **Üye** | Esra Kazan | Fırat Üniversitesi |
+| 👨‍💻 **Developer** | Berkay Parçal | Fırat Üniversitesi |
+| 👩‍💻 **Developer** | Esra Kazan | Fırat Üniversitesi |
 
 ---
 
