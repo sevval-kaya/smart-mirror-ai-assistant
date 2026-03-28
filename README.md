@@ -1,4 +1,15 @@
 <div align="center">
+    
+> [!IMPORTANT]
+> ### 🚀 Proje Güncelleme ve Taşınma Duyurusu
+> Bu depo, projenin **başlangıç, mimari kurulum ve mobil arayüz geliştirme** aşamalarını temsil etmektedir. 
+> 
+> TÜBİTAK 2209-A sürecimiz kapsamında, yapay zeka servislerinin (LLM & NGINX) entegrasyonuyla birlikte projenin aktif geliştirme süreci **Nihai Takım Deposu** üzerinden devam etmektedir. 
+> 
+> **Güncel ve yapay zeka entegreli versiyon için lütfen burayı ziyaret edin:**
+> 👉 **[TubitakAkilliAynaMobileFinal (Ana Repo)](https://github.com/RudblestThe2nd/TubitakAkilliAynaMobileFinal)**
+> 
+> ---
 
 # 🪞 Smart Mirror AI Assistant
 
