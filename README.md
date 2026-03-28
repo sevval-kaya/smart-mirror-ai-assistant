@@ -1,17 +1,17 @@
 <div align="center">
     
 > [!IMPORTANT]
-> ### 🚀 Proje Güncelleme ve Taşınma Duyurusu
+> ###  Proje Güncelleme ve Taşınma Duyurusu
 > Bu depo, projenin **başlangıç, mimari kurulum ve mobil arayüz geliştirme** aşamalarını temsil etmektedir. 
 > 
 > TÜBİTAK 2209-A sürecimiz kapsamında, yapay zeka servislerinin (LLM & NGINX) entegrasyonuyla birlikte projenin aktif geliştirme süreci **Nihai Takım Deposu** üzerinden devam etmektedir. 
 > 
 > **Güncel ve yapay zeka entegreli versiyon için lütfen burayı ziyaret edin:**
-> 👉 **[TubitakAkilliAynaMobileFinal (Ana Repo)](https://github.com/RudblestThe2nd/TubitakAkilliAynaMobileFinal)**
+>  **[TubitakAkilliAynaMobileFinal (Ana Repo)](https://github.com/RudblestThe2nd/TubitakAkilliAynaMobileFinal)**
 > 
 > ---
 
-# 🪞 Smart Mirror AI Assistant
+#  Smart Mirror AI Assistant
 
 ### TÜBİTAK 2209-A Üniversite Öğrencileri Araştırma Projeleri Desteği
 
@@ -30,18 +30,18 @@ Sesli komut işleme, görev yönetimi ve çoklu kullanıcı desteğini tek bir a
 
 ---
 
-## 👥 Proje Ekibi
+##  Proje Ekibi
 
 | Rol | İsim | Kurum |
 |-----|------|-------|
-| 🎓 **Danışman** | Doç. Dr. Sinem Akyol | Fırat Üniversitesi |
-| 👑 **Koordinatör** | Şevval Kaya | Fırat Üniversitesi |
-| 👨‍💻 **Developer** | Berkay Parçal | Fırat Üniversitesi |
-| 👩‍💻 **Developer** | Esra Kazan | Fırat Üniversitesi |
+|  **Danışman** | Doç. Dr. Sinem Akyol | Fırat Üniversitesi |
+|  **Koordinatör** | Şevval Kaya | Fırat Üniversitesi |
+|  **Developer** | Berkay Parçal | Fırat Üniversitesi |
+|  **Developer** | Esra Kazan | Fırat Üniversitesi |
 
 ---
 
-## 📋 İçindekiler
+##  İçindekiler
 
 - [Proje Hakkında](#-proje-hakkında)
 - [Özellikler](#-özellikler)
@@ -56,7 +56,7 @@ Sesli komut işleme, görev yönetimi ve çoklu kullanıcı desteğini tek bir a
 
 ---
 
-## 🔍 Proje Hakkında
+##  Proje Hakkında
 
 **Smart Mirror AI Assistant**, TÜBİTAK 2209-A kapsamında Fırat Üniversitesi'nde geliştirilen yapay zeka destekli akıllı ayna sisteminin mobil yardımcı uygulamasıdır. Uygulama; akıllı aynanın beyni ve kullanıcı arayüzü olarak görev yapar.
 
@@ -64,9 +64,9 @@ Ayna donanımı üzerinde çalışan **TensorFlow tabanlı AI modeli** ile **NGI
 
 ---
 
-## ✨ Özellikler
+##  Özellikler
 
-### 🎤 Sesli Komut & AI Asistan
+###  Sesli Komut & AI Asistan
 | Özellik | Açıklama |
 |---------|----------|
 | Gerçek zamanlı STT | `speech_to_text` ile mikrofon girişini metne çevirir |
@@ -75,7 +75,7 @@ Ayna donanımı üzerinde çalışan **TensorFlow tabanlı AI modeli** ile **NGI
 | Çevrimdışı Mod | Bağlantı yoksa kural tabanlı yerel yanıt motoru devreye girer |
 | Görev Sesli Okuma | Her görev kartındaki 🔊 butonu ile görev TTS ile okunur |
 
-### 📝 Görev & Plan Yönetimi
+###  Görev & Plan Yönetimi
 | Özellik | Açıklama |
 |---------|----------|
 | CRUD Görevler | Görev ekleme, düzenleme, silme, tamamlama |
@@ -86,7 +86,7 @@ Ayna donanımı üzerinde çalışan **TensorFlow tabanlı AI modeli** ile **NGI
 | Otomatik Gizleme | Tamamlanan görevler 24 saat sonra listeden kalkar |
 | Tam Metin Arama | Başlık ve açıklamada anlık arama |
 
-### 👤 Çoklu Kullanıcı Desteği
+###  Çoklu Kullanıcı Desteği
 | Özellik | Açıklama |
 |---------|----------|
 | Profil Yönetimi | Aile üyeleri için bağımsız profil oluşturma |
@@ -96,7 +96,7 @@ Ayna donanımı üzerinde çalışan **TensorFlow tabanlı AI modeli** ile **NGI
 | Gizlilik | Görevler kullanıcıya özel; kullanıcı değişiminde anında sıfırlanır |
 | Hızlı Geçiş | İlk kullanıcı oluşturulduğunda otomatik oturum açılır |
 
-### 🎨 Arayüz & Deneyim
+###  Arayüz & Deneyim
 | Özellik | Açıklama |
 |---------|----------|
 | Koyu Tema | Ayna estetiğiyle uyumlu minimalist tasarım |
@@ -108,7 +108,7 @@ Ayna donanımı üzerinde çalışan **TensorFlow tabanlı AI modeli** ile **NGI
 
 ---
 
-## 🏗 Mimari
+##  Mimari
 
 Uygulama **Clean Architecture** prensiplerine göre katmanlı bir yapıda inşa edilmiştir:
 
@@ -135,7 +135,7 @@ Uygulama **Clean Architecture** prensiplerine göre katmanlı bir yapıda inşa 
 
 ---
 
-## 🛠 Teknoloji Yığını
+##  Teknoloji Yığını
 
 ### Temel Bağımlılıklar
 
@@ -169,7 +169,7 @@ Uygulama **Clean Architecture** prensiplerine göre katmanlı bir yapıda inşa 
 
 ---
 
-## 🚀 Kurulum
+##  Kurulum
 
 ### Ön Gereksinimler
 
@@ -213,7 +213,7 @@ flutter run
 $env:GRADLE_USER_HOME = "C:/gradle_home"; flutter run
 ```
 
-> ⚠️ **Önemli:** Projeyi OneDrive senkronizasyonu altındaki bir dizinden **çalıştırmayın**. Gradle build dosyaları kilitlenir ve build başarısız olur.
+>  **Önemli:** Projeyi OneDrive senkronizasyonu altındaki bir dizinden **çalıştırmayın**. Gradle build dosyaları kilitlenir ve build başarısız olur.
 
 ### 6. Release APK Oluşturma
 
@@ -224,7 +224,7 @@ flutter build apk --release
 
 ---
 
-## 📱 Kullanım
+##  Kullanım
 
 ### İlk Açılış
 
@@ -261,7 +261,7 @@ Sesli Komut → Mikrofon butonuna bas → Konuş
 
 ---
 
-## 📁 Proje Yapısı
+##  Proje Yapısı
 
 ```
 lib/
@@ -324,7 +324,7 @@ lib/
 
 ---
 
-## 🌐 API Entegrasyonu
+##  API Entegrasyonu
 
 Uygulama, AI modeliyle **NGINX API Gateway** üzerinden HTTPS ile iletişim kurar.
 
@@ -359,7 +359,7 @@ Tüm isteklere otomatik olarak eklenir:
 
 ---
 
-## 🔒 Güvenlik
+##  Güvenlik
 
 | Katman | Uygulama |
 |--------|----------|
@@ -374,7 +374,7 @@ Tüm isteklere otomatik olarak eklenir:
 
 ## 🗺 Yol Haritası
 
-### ✅ Tamamlanan (v1.0)
+###  Tamamlanan (v1.0)
 
 - [x] Clean Architecture + BLoC/Cubit altyapısı
 - [x] SQLite yerel veritabanı (v2 — migration destekli)
@@ -389,7 +389,7 @@ Tüm isteklere otomatik olarak eklenir:
 - [x] Kullanıcı onay mekanizması
 - [x] Tam Türkçe karakter desteği (Noto Sans)
 
-### 🔜 Bir Sonraki Aşama (v1.1)
+###  Bir Sonraki Aşama (v1.1)
 
 - [ ] **TensorFlow AI Entegrasyonu** — Ayna donanımındaki modelin canlı bağlantısı
 - [ ] **Gerçek Zamanlı AI Yanıt** — NGINX Gateway üzerinden uçtan uca sesli asistan akışı
@@ -401,7 +401,7 @@ Tüm isteklere otomatik olarak eklenir:
 - [ ] **Ses Profili Özelleştirmesi** — Kullanıcı bazlı TTS hız/perde ayarları
 - [ ] **Erişilebilirlik** — Yüksek kontrast modu, büyük metin
 
-### 🔮 Uzun Vadeli (v2.0)
+###  Uzun Vadeli (v2.0)
 
 - [ ] **iOS Desteği** — App Store yayını
 - [ ] **Çoklu Dil** — İngilizce arayüz ve TTS desteği
@@ -410,7 +410,7 @@ Tüm isteklere otomatik olarak eklenir:
 
 ---
 
-## 📄 Lisans
+##  Lisans
 
 Bu proje **TÜBİTAK 2209-A** programı kapsamında Fırat Üniversitesi bünyesinde akademik amaçlı geliştirilmektedir.
 
