@@ -372,7 +372,7 @@ Tüm isteklere otomatik olarak eklenir:
 
 ---
 
-## 🗺 Yol Haritası
+##  Yol Haritası
 
 ###  Tamamlanan (v1.0)
 
